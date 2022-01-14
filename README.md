@@ -1,2 +1,3 @@
-# Genix
-A DOS like OS that runs in batch code.
+# DOS Genix
+
+## DOS Genix is under development
